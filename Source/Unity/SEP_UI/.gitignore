@@ -1,0 +1,12 @@
+# Unity-generated folders; recreated when the project is opened.
+/Library/
+/Temp/
+/Logs/
+/obj/
+/UserSettings/
+*.csproj
+*.sln
+
+# Build output of SEPBundleBuilder and KSPAssets; release copies go to GameData.
+/AssetBundles/Standalone*/
+/AssetBundles/sep_kspedia
